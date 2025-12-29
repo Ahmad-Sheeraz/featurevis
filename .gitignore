@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# node
+node_modules/
+dist/
+
+#others
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+.env
+.env.local
+
+uv.lock
+
+*.log

@@ -1,0 +1,18 @@
+[project]
+name = "featurevis-backend"
+version = "0.1.0"
+description = "Feature map visualization backend"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "torch",
+    "torchvision",
+    "pillow",
+    "python-multipart",
+    "captum",
+    "matplotlib",
+]
+
+[dependency-groups]
+dev = []
