@@ -8,6 +8,10 @@ FeatureVis does one thing: let you see inside your trained model instantly. Uplo
 
 The goal is simple — verify your model is truly generalizing, not exploiting shortcuts.
 
+##Preview
+![featurevis](https://github.com/user-attachments/assets/c4480803-3c6f-4e47-8424-3016c14d44a0)
+
+
 ## Project Structure
 ```
 featurevis/
